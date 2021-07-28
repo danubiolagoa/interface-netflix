@@ -1,3 +1,0 @@
-# RECRIANDO INTERFACE NETFLIX
-
-## Atividade de HTML5, CSS3 e JS da DIO.
